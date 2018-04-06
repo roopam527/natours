@@ -574,11 +574,12 @@ body {
 .section-tour {
   background-color: #f7f7f7;
   padding: 25rem 0 50rem 0;
-  margin-top: -4vh;
+  margin-top: -15vh;
   text-align: center;
   height: auto; }
   @media (max-width: 56.25em) {
     .section-tour {
+      margin-top: -8vh;
       padding: 15rem 0 10rem 0; } }
 
 .section-stories {
