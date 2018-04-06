@@ -1,0 +1,14 @@
+{
+  "name": "trips",
+  "version": "1.0.0",
+  "description": "landing page for trips",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass scss/stle.scss style.css -w"
+  },
+  "author": "roopam",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
