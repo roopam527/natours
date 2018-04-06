@@ -576,10 +576,11 @@ body {
   padding: 25rem 0 50rem 0;
   margin-top: -15vh;
   text-align: center;
-  height: auto; }
+  height: 1200px; }
   @media (max-width: 56.25em) {
     .section-tour {
       margin-top: -8vh;
+      height: auto;
       padding: 15rem 0 10rem 0; } }
 
 .section-stories {
